@@ -1,0 +1,25 @@
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\Show_Drawing.dll
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\Show_Drawing.pdb
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\App1.dll
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\itextsharp.dll
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\NPOI.dll
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\PdfSharp.dll
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\PQScan.PDFToImage.dll
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\Spire.License.dll
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\Spire.Pdf.dll
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\bin\App1.pdb
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\obj\Debug\Show_Drawing.dll
+c:\users\it\documents\visual studio 2010\Projects\Show_Drawing\Show_Drawing\obj\Debug\Show_Drawing.pdb
+D:\CSK\Show_Drawing\Show_Drawing\bin\Show_Drawing.dll
+D:\CSK\Show_Drawing\Show_Drawing\bin\Show_Drawing.pdb
+D:\CSK\Show_Drawing\Show_Drawing\bin\App1.dll
+D:\CSK\Show_Drawing\Show_Drawing\bin\itextsharp.dll
+D:\CSK\Show_Drawing\Show_Drawing\bin\NPOI.dll
+D:\CSK\Show_Drawing\Show_Drawing\bin\PdfSharp.dll
+D:\CSK\Show_Drawing\Show_Drawing\bin\PQScan.PDFToImage.dll
+D:\CSK\Show_Drawing\Show_Drawing\bin\Spire.License.dll
+D:\CSK\Show_Drawing\Show_Drawing\bin\Spire.Pdf.dll
+D:\CSK\Show_Drawing\Show_Drawing\bin\App1.pdb
+D:\CSK\Show_Drawing\Show_Drawing\obj\Debug\Show_Drawing.csprojResolveAssemblyReference.cache
+D:\CSK\Show_Drawing\Show_Drawing\obj\Debug\Show_Drawing.dll
+D:\CSK\Show_Drawing\Show_Drawing\obj\Debug\Show_Drawing.pdb
